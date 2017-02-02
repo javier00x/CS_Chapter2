@@ -9,6 +9,8 @@ namespace EggsInteractive
     {
         static void Main(string[] args)
         {
+            decimal Price = 23434663268796544367542;
+            double Price = 24465;
         }
     }
 }

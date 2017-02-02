@@ -9,6 +9,8 @@ namespace DoubleDecimalTest
     {
         static void Main(string[] args)
         {
+            double Price = 111334;
+            decimal price = 12131232532;
         }
     }
 }
