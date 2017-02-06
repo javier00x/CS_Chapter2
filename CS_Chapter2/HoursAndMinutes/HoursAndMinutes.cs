@@ -9,9 +9,10 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
-            int minutes = 195;
+            int minutes = 197;
             int Hour = minutes / 60;
             Console.WriteLine("the time is {0}", Hour);
+
         }
     }
 }
