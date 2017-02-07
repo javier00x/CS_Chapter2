@@ -9,9 +9,12 @@ namespace Eggs
     {
         static void Main(string[] args)
         {
+            int chincken = 4;
             int Eggs = 127;
             int Dozens = Eggs / 12;
             int Eggremainder = Eggs % 12;
+            string name1 = "Dozen";
+            string name2 = "Egg";
             
 
         }
